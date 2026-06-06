@@ -1,4 +1,4 @@
-# Business Email (Hermes Agent Skill)
+# Business Email 
 
 A skill for Hermes Agent that helps you write professional English emails — concise, direct, and culturally aware. Two modes: Casual (for colleagues) and Formal (for clients, bosses, elders).
 
